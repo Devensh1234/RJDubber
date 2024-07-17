@@ -37,7 +37,7 @@ FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001991164752"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "<b> Hᴇʟʟᴏ {first}🙌\n\nI ᴀᴍ Rᴊ ᴅᴜʙʙᴇʀ'ꜱ ꜰɪʟᴇ ʙᴏᴛ\nSᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ Cʜᴀɴɴᴇʟ ᴛᴏ ɢᴇᴛ ​P​​🇷​​🇪​​🇲​​🇮​​🇺​​🇲​ Fɪʟᴇꜱ ☠️\n\nAɴɪᴍᴇꜱ ~ <a href='https://t.me/+JU06iz_ot-E4Zjc1'>Jᴏɪɴ Hᴇʀᴇ</a>\n\nPᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/RJ_Dubbers'>Rᴊ Dᴜʙʙᴇʀꜱ🖤</a></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b> Hᴇʟʟᴏ {first}🙌\n\nI ᴀᴍ Rᴊ ᴅᴜʙʙᴇʀ'ꜱ ꜰɪʟᴇ ʙᴏᴛ\nSᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ Cʜᴀɴɴᴇʟ ᴛᴏ ɢᴇᴛ ​ᴇxᴄʟᴜꜱɪᴠᴇ Fɪʟᴇꜱ ☠️\n\nDᴜʙʙᴇᴅ Aɴɪᴍᴇꜱ ~ <a href='https://t.me/+JU06iz_ot-E4Zjc1'>Jᴏɪɴ Hᴇʀᴇ</a>\n\nDᴏɴᴀᴛᴇ ᴜꜱ ~ <a href='https://t.me/RJFilesBot?start=Z2V0LTIxMDQ1NDA1NzAxNDM5'>Click Me</a>\n\nPᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/RJ_Dubbers'>Rᴊ Dᴜʙʙᴇʀꜱ🖤</a></b>")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "").split()):
