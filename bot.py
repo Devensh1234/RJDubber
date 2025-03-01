@@ -2,10 +2,7 @@
 import pyrogram.utils
 
 pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
-if message.text or message.media:
-    # Proceed with copying or handling the message
-else:
-    print("Skipping empty message.")
+
 from aiohttp import web
 from plugins import web_server
 
