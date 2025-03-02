@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-
+pyrogram
 TgCrypto
 Pyromod==1.5
 python-dotenv
@@ -8,5 +8,4 @@ pymongo
 dnspython
 # --- For-Web-Response ------- #
 aiohttp
-pyrofork-2.2.11
-git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
+
