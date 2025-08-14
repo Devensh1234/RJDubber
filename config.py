@@ -32,7 +32,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://NewPomPom:NewPomPom@clust
 DB_NAME = os.environ.get("DATABASE_NAME", "pomoibot")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002131356207"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001975852452"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -61,7 +61,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "<b>Tʜᴀɴᴋ Yᴏᴜ ꜰᴏʀ ᴜꜱɪɴɢ Oᴜʀ ʙᴏᴛ..!\n\nPʟᴇᴀꜱᴇ Jᴏɪɴ - <a href='https://RJDUBBER'>Lᴀᴛᴇꜱᴛ Aɴɪᴍᴇ 🔥</a>\n\nTᴏ ɢᴇᴛ Aʟʟ ʟᴀᴛᴇꜱᴛ Aɴɪᴍᴇ🖤</b>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
