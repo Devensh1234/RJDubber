@@ -61,7 +61,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "<b>Tʜᴀɴᴋ Yᴏᴜ ꜰᴏʀ ᴜꜱɪɴɢ Oᴜʀ ʙᴏᴛ..!\n\nPʟᴇᴀꜱᴇ Jᴏɪɴ - <a href='https://RJDUBBER'>Lᴀᴛᴇꜱᴛ Aɴɪᴍᴇ 🔥</a>\n\nTᴏ ɢᴇᴛ Aʟʟ ʟᴀᴛᴇꜱᴛ Aɴɪᴍᴇ🖤</b>"
+USER_REPLY_TEXT = "<b>Tʜᴀɴᴋ Yᴏᴜ ꜰᴏʀ ᴜꜱɪɴɢ Oᴜʀ ʙᴏᴛ..!\n\nPʟᴇᴀꜱᴇ Jᴏɪɴ - <a href='https://t.me/RJDUBBER'>Lᴀᴛᴇꜱᴛ Aɴɪᴍᴇ 🔥</a>\n\nTᴏ ɢᴇᴛ Aʟʟ ʟᴀᴛᴇꜱᴛ Aɴɪᴍᴇ🖤</b>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
