@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ 🖤 Mʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/RJ_Dubbers'>Rᴊ Dᴜʙʙᴇʀꜱ</a>\n○ 😺Dᴏɴᴀᴛᴇ ᴜꜱ ~ <a href='https://t.me/RJFilesBot?start=Z2V0LTIxMDQ1NDA1NzAxNDM5'>Cʟɪᴄᴋ Mᴇ</a>\n○ 🔥Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n○ 🥶sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : <a href='https://t.me/itz_sahil_official'>ᴘʀɪᴠᴀᴛᴇ ᴄᴏᴅᴇ</a></b>",
+            text = f"<b>○ 🖤 Mʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/RJ_Dubbers'>Rᴊ Dᴜʙʙᴇʀꜱ</a>\n○ 😺Dᴏɴᴀᴛᴇ ᴜꜱ ~ <a href='https://t.me/RJ_Files_Bot?start=Z2V0LTUyNzEzNzMwNDcxMjIzNA'>Cʟɪᴄᴋ Mᴇ</a>\n○ 🔥Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n○ 🥶sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : <a href='https://t.me/itz_sahil_official'>ᴘʀɪᴠᴀᴛᴇ ᴄᴏᴅᴇ</a></b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
